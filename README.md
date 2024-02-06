@@ -1,6 +1,6 @@
 # nlp-course
 
-https://regexone.com/
+https://www.regexpal.com/ - https://regexone.com/
 
 https://www.nltk.org/book/
 
