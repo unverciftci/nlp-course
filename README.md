@@ -2,10 +2,19 @@
 
 Welcome to our course. 
 
-https://regex101.com/
 
-https://www.nltk.org/book/
+## References and Futher Reading
 
 https://web.stanford.edu/~jurafsky/slp3/
 
+https://www.deeplearning.ai/resources/natural-language-processing
 
+https://www.nlpdemystified.org/
+
+## Software Tools
+
+https://regex101.com/
+
+https://www.nltk.org
+
+https://huggingface.co/
