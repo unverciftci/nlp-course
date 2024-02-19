@@ -1,6 +1,8 @@
-# nlp-course
+# CMPE 346 Natural Lanuage Processing
 
-https://www.regexpal.com/ - https://regexone.com/
+Welcome to our course. 
+
+https://regex101.com/
 
 https://www.nltk.org/book/
 
