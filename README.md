@@ -11,6 +11,8 @@ https://www.deeplearning.ai/resources/natural-language-processing
 
 https://www.nlpdemystified.org/
 
+https://huggingface.co/transformersbook
+
 ## Software Tools
 
 https://regex101.com/
