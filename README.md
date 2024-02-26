@@ -13,6 +13,8 @@ https://www.nlpdemystified.org/
 
 https://huggingface.co/transformersbook
 
+https://phontron.com/class/anlp2024/
+
 ## Software Tools
 
 https://regex101.com/
